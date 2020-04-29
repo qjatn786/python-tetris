@@ -40,11 +40,11 @@ BOARD_MARGIN     = 2
 WHITE    = (255,255,255)
 RED      = (255,0,0)
 GREEN    = (0,255,0)
-BLUE     = (0,0,255)
-ORANGE   = (255,69,0)
-GOLD     = (255,125,0)
-PURPLE   = (128,0,128)
-CYAN     = (0,255,255) 
+L_BLUE   = (0,255,255)
+YELLOW   = (255,255,0)
+BEIGE    = (255,229,204)
+PURPLE   = (127,0,255)
+PINK     = (255,0,127) 
 BLACK    = (0,0,0)
 
 # Timing constraints
@@ -66,4 +66,4 @@ POINT_VALUE       = 100
 POINT_MARGIN      = 10
 
 # Font size for all strings (score, pause, game over)
-FONT_SIZE           = 25
+FONT_SIZE           = 40
